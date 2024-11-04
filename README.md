@@ -2,6 +2,8 @@
  
 Unityで作成されたマルチプレイ専用のFPSゲームです。
 
+https://github.com/user-attachments/assets/737a367a-86c5-4f73-b66c-2f8167767ccf
+
 ゲームを体験するためには、ダウンロードしたMultiplayer_4.04フォルダのAssetsにImportを入れてください。
 
 ImportフォルダのURL：https://nihon-u.box.com/s/4dra7yrlxyezvc9ouzno352j31ij5fb2
